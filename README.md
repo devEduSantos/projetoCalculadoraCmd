@@ -24,4 +24,4 @@
 
 ✅ Criar o modelo base do menu no programa principal.
 
-
+✅ Criar uma classe que execute as 4 funções da calculadora.

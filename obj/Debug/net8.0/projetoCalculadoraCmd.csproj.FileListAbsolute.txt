@@ -1,0 +1,15 @@
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\bin\Debug\net8.0\projetoCalculadoraCmd.exe
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\bin\Debug\net8.0\projetoCalculadoraCmd.deps.json
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\bin\Debug\net8.0\projetoCalculadoraCmd.runtimeconfig.json
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\bin\Debug\net8.0\projetoCalculadoraCmd.dll
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\bin\Debug\net8.0\projetoCalculadoraCmd.pdb
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.AssemblyInfoInputs.cache
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.AssemblyInfo.cs
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.csproj.CoreCompileInputs.cache
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.sourcelink.json
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.dll
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\refint\projetoCalculadoraCmd.dll
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.pdb
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\projetoCalculadoraCmd.genruntimeconfig.cache
+C:\Projetos\desafiosPratica\projetoCalculadoraCmd\obj\Debug\net8.0\ref\projetoCalculadoraCmd.dll
