@@ -7,27 +7,36 @@ namespace projetoCalculadoraCmd.models
 {
     public class Calculadora
     {
-        public decimal Somar(decimal x, decimal y)
+        public double Somar(double x, double y)
         {
-            decimal result = x + y;
+            double result = x + y;
             return result;
         }
-        public decimal Subtrair(decimal x, decimal y)
+        public double Subtrair(double x, double y)
         {
-            decimal result = x - y;
+            double result = x - y;
             return result;
         }
-        public decimal Multiplicar(decimal x, decimal y)
+        public double Multiplicar(double x, double y)
         {
-            decimal result = x * y;
+            double result = x * y;
             return result;
         }
-        public decimal Dividir(decimal x, decimal y)
+        public double Dividir(double x, double y)
         {
-            decimal result = x / y;
+            double result = x / y;
             return result;
         }
-        
+        public double RestoDivisao(double x, double y)
+        {
+            double result = x % y;
+            return result;
+        }
+        public double Potenciacao(double x, double y)
+        {
+            double result = Math.Pow(x, y);
+            return result;
+        }
 
     }
 }

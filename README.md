@@ -30,3 +30,11 @@
 
 💻 Alpha V0.1 - Chegamos a uma versão estável aonde a calculadora consegue realizar as 4 operações matemáticas básicas, ainda podem ser feitos melhorias como 2 funções novas que serão aplicadas na calculadora futuramente e estão abaixo, fora melhorias no código para deixá-lo mais limpo e claro futuramente.
 
+## Atualizações futuras
+
+❕Alpha 0.2
+▪ Adicionar a opção 5 no menu, que irá calcular o Resto da Divisão.
+▪ Adicionar a opção 6 no menu, que irá calcular a Potênciação de uma determinada base pelo seu expoente.
+
+
+💻 Alpha V0.2 - Mais uma atualização lançada no aplicativo da calculadora de Terminal, adicionamos as opções 5 e 6 no menu que agora permitem o calculo de Resto de divisão e Potenciação, nas proximas atualizações estaremos deixando as notas abaixo sobre possiveis melhorias.
