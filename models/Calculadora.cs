@@ -27,6 +27,7 @@ namespace projetoCalculadoraCmd.models
             decimal result = x / y;
             return result;
         }
+        
 
     }
 }
