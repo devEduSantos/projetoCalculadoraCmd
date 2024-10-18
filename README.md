@@ -25,3 +25,5 @@
 ✅ Criar o modelo base do menu no programa principal.
 
 ✅ Criar uma classe que execute as 4 funções da calculadora.
+
+🔧 Att 0.1 - Foi Feito uma melhoria e uma correção no menu referente a um erro aonde o usuario fornecia o primeiro e o segundo valor e o resultado não chegava a aparecer na tela por conta do Console.Clear() o que apagava o terminal imediatamente, erro corrigido agora com o usuário tendo que digitar uma tecla antes do programa limpar o terminal e voltar ao Menu principal da aplicação.

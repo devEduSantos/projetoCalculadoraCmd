@@ -1,6 +1,7 @@
 ﻿using projetoCalculadoraCmd.models;
 
 bool vControle = true;
+Calculadora calc = new Calculadora();
 while(vControle)
 {
     int opcao;
@@ -19,6 +20,15 @@ while(vControle)
             Console.Clear();
             break;
         case 1:
-            
+            Console.Clear();
+            Console.WriteLine("Primeiro número:  ");
+            decimal primeiroValor = decimal.Parse(Console.ReadLine());
+            Console.WriteLine("Segundo número: ");
+            decimal segundoValor = decimal.Parse(Console.ReadLine());
+            Console.WriteLine($"Resultado = {calc.Somar(primeiroValor, segundoValor)}");
+            Console.WriteLine("Aperte qualquer tecla para continuar... ");
+            Console.ReadLine();
+            Console.Clear();
+            break;
     }
 }
